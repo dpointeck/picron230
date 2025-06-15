@@ -10,4 +10,4 @@ below to navigate.
 4. [Testing (TDD)](testing.md)
 5. [Architecture and Diagrams](architecture.md)
 6. [Roadmap](roadmap.md)
-
+7. [Worklog](worklog/README.md)
