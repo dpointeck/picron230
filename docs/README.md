@@ -11,4 +11,3 @@ below to navigate.
 5. [Architecture and Diagrams](architecture.md)
 6. [Roadmap](roadmap.md)
 7. [Worklog](worklog/README.md)
-
